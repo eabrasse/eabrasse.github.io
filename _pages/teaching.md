@@ -12,7 +12,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: designing student labs using a scale model of Puget Sound
 ---
-<img class="col one last" src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="float:right">
+<img class="col one last" src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="float:right; width: 50%; height: 50%">
 
 I had the opportunity to TA for three very different courses covering a range of teaching situations during my graduate studies at the University of Washington. 
 
