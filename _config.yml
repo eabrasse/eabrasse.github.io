@@ -50,6 +50,11 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 
+header_pages:
+  - about.md
+  - teaching.md
+  - research.md
+
 # Dimensions
 max_width: 800px
 
