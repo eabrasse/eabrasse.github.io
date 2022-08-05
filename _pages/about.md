@@ -1,8 +1,8 @@
 ---
 layout: about
-title: <strong>Elizabeth</strong> Brasseale 
+title: about
 permalink: /
-description: Coastal oceanography modeler, Postdoctoral Researcher, Scripps Institution of Oceanography
+subtitle: Coastal oceanography modeler<br>Postdoctoral Researcher<br>Scripps Institution of Oceanography
 
 profile:
   align: right
