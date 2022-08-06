@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 subtitle: Teaching assistantships at the University of Washington
-nav: false
-nav_order: 5
+nav: true
+nav_order: 2
 
 profile:
   align: right
