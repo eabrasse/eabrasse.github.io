@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: ebrasseale at ucsd dot edu<br>Coastal oceanography modeler<br>Postdoctoral Researcher<br>Scripps Institution of Oceanography
+subtitle: ebrasseale at ucsd dot edu<br>Coastal oceanography modeler<br>Postdoctoral Researcher<br>Scripps Institution of Oceanography
 
 profile:
   align: right
