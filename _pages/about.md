@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: ebrasseale at ucsd dot edu<br>Coastal oceanography modeler<br>Postdoctoral Researcher<br>Scripps Institution of Oceanography
+subtitle: ebrasseale at ucsd dot edu<br>Coastal oceanography modeler<br>Postdoctoral Researcher, Scripps Institution of Oceanography
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: true # crops the image to make it circular
+  image_cicular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
