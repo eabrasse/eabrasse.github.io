@@ -44,7 +44,7 @@ This is ongoing work. What we're interested in next is testing different dye dec
 
 Publication:
 
-Brasseale, E., Feddersen, F., and S.N. Giddings, (submitted). Performance of a one-dimensional model of wave-driven nearshore alongshore tracer transport and decay. *Journal of Physical Oceanography*.
+Brasseale, E., Feddersen, F., and S.N. Giddings, (submitted). Performance of a one-dimensional model of wave-driven nearshore alongshore tracer transport and decay. *Journal of Geophysical Research: Oceans*.
 
 <div style="text-align: right">
 <img class="col one last" src="{{ site.baseurl }}/assets/img/IMG_1558.jpg" style="float:right; width: 50%; height: 50%">
