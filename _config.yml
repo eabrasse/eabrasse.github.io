@@ -8,7 +8,7 @@ middle_name: A.
 last_name: Brasseale
 email: ebrasseale@ucsd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Elizabeth Brasseale's research page
+  Elizabeth Brasseale's academic profile
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -295,7 +295,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            false   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  true   # enables categorization of projects into
+enable_project_categories:  false   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
