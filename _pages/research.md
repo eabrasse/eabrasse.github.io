@@ -2,14 +2,12 @@
 layout: page
 title: research
 permalink: /research/
-description: A list of my research projects
+description: I use models to research how physics affects the transport of material around the coast.
 nav: true
 nav_order: 1
 display_categories: []
 horizontal: false
 ---
-I use models to research how physics affects the transport of material around the coast.
-
 <span style="text-decoration: underline">Selected projects:</span>
 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/Willapa2014.08.10.png" style="float:right; width: 50%; height: 50%">
@@ -36,7 +34,7 @@ Brasseale, E., and P. MacCready, 2021. Shelf sources of estuarine inflow. *Journ
 
 Brasseale, E. and P. MacCready (in progress). Effect of seasonal wind stress variation on the source of shelf inflow to the Salish Sea and Columbia River estuary.
 
-**Wave-driven transport of nearshore wastewater pathogens** \
+**Wave-driven transport of nearshore wastewater pathogens**
 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/proposal_fig.jpg" style="float:right; width: 50%; height: 50%">
 
@@ -49,5 +47,5 @@ Publication:
 Brasseale, E., Feddersen, F., and S.N. Giddings, (submitted). Performance of a one-dimensional model of wave-driven nearshore alongshore tracer transport and decay. *Journal of Physical Oceanography*.
 
 <div style="text-align: right">
-<img class="col one last" src="{{ site.baseurl }}/assets/img/IMG_1558" style="float:right; width: 50%; height: 50%">
+<img class="col one last" src="{{ site.baseurl }}/assets/img/IMG_1558.jpg" style="float:right; width: 50%; height: 50%">
 </div>
