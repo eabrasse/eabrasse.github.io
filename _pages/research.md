@@ -24,7 +24,7 @@ Brasseale, E., Grason, E., McDonald, P.S., Adams, J., and P. MacCready, 2019. La
 
 **Shelf inflow to estuaries** \
 
-<img class="col one last" src="/assets/images/ptracks_base_smallgrid_shifted_labels.png" width="550" height="530"/>
+<img class="col one last" src="/assets/images/ptracks_base_smallgrid_shifted_labels.png" width: 50%; height: 50%"/>
 
 Estuaries are rich environments that are homes or nurseries to many species, including economically important species like oysters. Typically, estuaries are thought to accumulate pollution from land runoff and detritus from local ecological activity which is flushed out by clean ocean water. But oceanographers know that the ocean is not homogeneous - it has patches of acidic, oxygen-poor water that may be harmful to estuarine inhabitants. Here we wanted to get a better understanding of where the oceanic inflow to estuaries originates on the continental shelf ("shelf inflow"). Ocean water is drawn into estuaries because pressure is lower underneath the buoyant estuarine water. When an estuary is large enough to feel the rotation of the Earth (if the mouth is wider than the Rossby radius), then shelf inflow will have to turn left (in the Northern hemisphere) as it moves across the shelf into shallower water to approach the mouth. This is because, on a rotating planet, relative vorticity increases as the water column gets shorter. But as inflow evolves from a cross-shore current to an along-shore current, along-shore friction arises to balance the changing vorticity. The steady state analytical solution for shelf inflow when there is only an estuary tidal mixing, and planetary rotation is a current that flows in from the right of the estuary, turning to enter the mouth. This is the same side of the estuary that the buoyant river plume bends towards to form an outgoing along-shore gravity current. I tested this analytical in a series of three dimensional idealized models, using particle tracking to illustrate shelf inflow paths. The analytical solution described much of shelf inflow well, but additional details were revealed by using an unsteady three-dimensional model. Two new secondary inflow paths were identified: one of particles returning to the estuary mouth from the outflow plume, and one from the left hand side of the estuary. We also found that in some circumstances, the shelf inflow was partially overlapped by the estuarine outflow, shearing the plume front.
 
@@ -38,7 +38,7 @@ Brasseale, E. and P. MacCready (in progress). Effect of seasonal wind stress var
 
 **Wave-driven transport of nearshore wastewater pathogens** \
 
-<img class="col one last" src="/assets/images/proposal_fig.jpg" width="550" height="530"/>
+<img class="col one last" src="/assets/images/proposal_fig.jpg" width: 50%; height: 50%"/>
 
 In the San Diego-Tijuana area around the United States-Mexico border, inadequate infrastructure at the San Antonio de los Buenos wastewater treatment plant (SABWTP) spills tens of millions of gallons a day of untreated wastewater onto the beach. This creates a water quality hazard that can spread to recreational beaches up to 30 km away because wave-driven currents travel easily along the straight, sandy coastline. Waves are conserved until breaking in the surf zone, and currents driven by breaking waves are the biggest currents in the nearshore. Therefore, we hypothesized that we could model the location of the wastewater plume along the beach based on waves at an offshore buoy. This one dimensional model with only one forcing input was tested by seeing how well it could reproduce the distribution of dye (simulating wastewater) at regional beaches in a 3D ocean-wave coupled hydrodynamic regional model over the course of a year. In particular, we looked for times when dye concentrations were high enough to merit a beach advisory. The 1D nearshore model agreed with the hydrodynamic model on 89% of all time steps at all locations. This gives us confidence that a simple model could be used to help predict water quality problems stemming from the SABWTP at regional beaches. You can see movies of the hydrodynamic model and some validation work on the [project page](https://giddingslab.ucsd.edu/wastewater-plume-transport-nearshore/).
 
@@ -48,4 +48,4 @@ Publication:
 
 Brasseale, E., Feddersen, F., and S.N. Giddings, (submitted). Performance of a one-dimensional model of wave-driven nearshore alongshore tracer transport and decay. *Journal of Physical Oceanography*.
 
-<img class="col one last" src="/assets/images/IMG_1558" width="850"/>
+<img src="/assets/images/IMG_1558" width: 50%; height: 50%"/>
