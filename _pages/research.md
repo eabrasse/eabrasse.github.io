@@ -20,7 +20,7 @@ Publication:
     
 Brasseale, E., Grason, E., McDonald, P.S., Adams, J., and P. MacCready, 2019. Larval transport support for identifying population sources of European green crab in the Salish Sea. *Estuaries and Coasts* 42 (4), DOI: 10.1007/s12237-019-00586-2. [link](https://par.nsf.gov/servlets/purl/10111649)
 
-**Shelf inflow to estuaries** \
+**Shelf inflow to estuaries**
 
 <img class="col one last" src="{{ site.baseurl }}/assets/img/ptracks_base_smallgrid_shifted_labels.png" style="float:right; width: 50%; height: 50%">
 
