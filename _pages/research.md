@@ -46,6 +46,6 @@ Publication:
 
 Brasseale, E., Feddersen, F., and S.N. Giddings, (submitted). Performance of a one-dimensional model of wave-driven nearshore alongshore tracer transport and decay. *Journal of Geophysical Research: Oceans*.
 
-<div style="text-align: center">
-<img src="{{ site.baseurl }}/assets/img/IMG_1558.jpg" style="float:right; width: 80%; height: 80%">
+<div style="text-align: left">
+<img src="{{ site.baseurl }}/assets/img/IMG_1558.jpg" style="float:right; width: 100%; height: 100%">
 </div>
