@@ -7,7 +7,10 @@ nav: true
 nav_order: 2
 
 ---
-<img class="col one last" src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="float:right; width: 50%; height: 50%" image-caption="designing student labs using a scale model of Puget Sound">
+<figure>
+    <img class="col one last" src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="float:right; width: 50%; height: 50%">
+    <figcaption align = "center"><b>Designing a lab assignment for students to work with a scale model of Puget Sound</b></figcaption>
+</figure>
 
 
 I had the opportunity to TA for three very different courses covering a range of teaching situations during my graduate studies at the University of Washington. 
