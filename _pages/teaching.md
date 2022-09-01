@@ -7,15 +7,14 @@ nav: true
 nav_order: 2
 
 ---
-
+<figure>
 <div class = "col one last">
- <div class="float:right; width: 50%; height: 50%">
-  <figure>
+ <div style="float:right; width: 50%; height: 50%">
     <img src="{{ site.baseurl }}/assets/img/teaching1.jpg" >
     <figcaption>Designing a lab assignment for students to work with a scale model of Puget Sound</figcaption>
-  </figure>
  </div>
 </div>
+</figure>
 
 I had the opportunity to TA for three very different courses covering a range of teaching situations during my graduate studies at the University of Washington. 
 
