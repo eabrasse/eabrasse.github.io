@@ -8,10 +8,13 @@ nav_order: 2
 
 ---
 <figure>
-    <img class="col one last" src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="float:right; width: 50%; height: 50%">
-    <figcaption class="col one last" style="float:right; width: 50%; height: 50%">Designing a lab assignment for students to work with a scale model of Puget Sound</figcaption>
+ <div class = "col one last">
+  <div style="float:right; width: 50%; height: 50%">
+    <img src="{{ site.baseurl }}/assets/img/teaching1.jpg >
+    <figcaption>Designing a lab assignment for students to work with a scale model of Puget Sound</figcaption>
+  </div>
+ </div>
 </figure>
-
 
 I had the opportunity to TA for three very different courses covering a range of teaching situations during my graduate studies at the University of Washington. 
 
