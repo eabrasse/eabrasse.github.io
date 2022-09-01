@@ -10,7 +10,7 @@ nav_order: 2
 # <img class="col one last" src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="float:right; width: 50%; height: 50%">
 
 {% include image.html
-            img="{{ site.baseurl }}/assets/img/teaching1.jpg"
+            img="img/teaching1.jpg"
             title="puget sound model"
             caption="designing student labs using a scale model of Puget Sound" %}
 
