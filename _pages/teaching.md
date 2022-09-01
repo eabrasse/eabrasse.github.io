@@ -9,7 +9,7 @@ nav_order: 2
 ---
 <figure>
 <div class = "col one last">
- <div style="float:right; width: 50%; height: 50%">
+ <div style="float:right; width: 40%; height: 40%">
     <img src="{{ site.baseurl }}/assets/img/teaching1.jpg" >
     <figcaption>Designing a lab assignment for students to work with a scale model of Puget Sound</figcaption>
  </div>
