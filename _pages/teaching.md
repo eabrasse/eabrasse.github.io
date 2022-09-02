@@ -11,7 +11,7 @@ nav_order: 2
 <div class = "col one last">
  <div style="float:right; width: 30%; height: 30%; padding: 10px">
     <img src="{{ site.baseurl }}/assets/img/teaching1.jpg" >
-    <figcaption><center>Designing a lab assignment for OCEAN 320 students to work with a scale model of Puget Sound (I'm on the left)<center></figcaption>
+    <figcaption><center>Designing a lab assignment for OCEAN 320 students to work with a scale model of Puget Sound (I'm on the left)</center></figcaption>
  </div>
 </div>
 </figure>
@@ -28,7 +28,7 @@ Ocean 320 was an upper-level undergraduate course for oceanography majors that c
 Ocean 529 was a unique graduate-level summer course for students across the country who were doing PhD research on coastal and estuarine dynamics. The course covered the shallow water wave equations, salinity diffusion, canyons, nearshore dynamics, and more. During the five-week class, we lived at the University of Washington's Friday Harbor Laboratories on San Juan Island. I was responsible for the logistics of transporting equipment from Seattle to San Juan Island for the field work component of the class, and I helped plan and execute field work with one of the research teams. This included getting a Washington State Boater Education license and piloting a small boat.
 
 <figure>
-<div class = "col one first">
+<div class = "col one last">
  <div style="float:left; width: 10%; height: 10%; padding: 5px">
     <img src="{{ site.baseurl }}/assets/img/IMG-20190816-WA0002.jpg" >
     <figcaption>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</figcaption>
