@@ -9,9 +9,9 @@ nav_order: 2
 ---
 <figure>
 <div class = "col one last">
- <div style="float:right; width: 40%; height: 40%; padding: 5px">
+ <div style="float:right; width: 40%; height: 40%; padding: 10px">
     <img src="{{ site.baseurl }}/assets/img/teaching1.jpg" >
-    <figcaption>Designing a lab assignment for OCEAN 320 students to work with a scale model of Puget Sound (I'm on the left)</figcaption>
+    <figcaption><center>Designing a lab assignment for OCEAN 320 students to work with a scale model of Puget Sound (I'm on the left)<center></figcaption>
  </div>
 </div>
 </figure>
@@ -29,7 +29,7 @@ Ocean 529 was a unique graduate-level summer course for students across the coun
 
 <figure>
 <div class = "col one first">
- <div style="float:left; width: 40%; height: 40%; padding: 5px">
+ <div style="float:left; width: 10%; height: 10%; padding: 5px">
     <img src="{{ site.baseurl }}/assets/img/IMG-20190816-WA0002.jpg" >
     <figcaption>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</figcaption>
  </div>
