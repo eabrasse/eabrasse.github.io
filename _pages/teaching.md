@@ -7,6 +7,12 @@ nav: true
 nav_order: 2
 
 ---
+
+I had the opportunity to TA for three very different courses covering a range of teaching situations during my graduate studies at the University of Washington. I highlight responsibilities I had beyond grading and holding office hours.
+
+<strong>OCEAN 200: Introduction to Oceanography</strong><br>
+Ocean 200 was a lecture hall class designed for undergraduate science majors with over one hundred students enrolled. The course covered ocean chemistry, biology, physics, and geology. I taught a biweekly quiz section and helped design coursework. This course used evidence-based techniques for keeping a large class engaged, i.e. the PollEverywhere tool.
+
 <figure>
 <div class = "col one last">
  <div style="float:right; padding: 10px; width: 50%; height: 50%">
@@ -16,11 +22,6 @@ nav_order: 2
 </div>
 </figure>
 
-I had the opportunity to TA for three very different courses covering a range of teaching situations during my graduate studies at the University of Washington. I highlight responsibilities I had beyond grading and holding office hours.
-
-<strong>OCEAN 200: Introduction to Oceanography</strong><br>
-Ocean 200 was a lecture hall class designed for undergraduate science majors with over one hundred students enrolled. The course covered ocean chemistry, biology, physics, and geology. I taught a biweekly quiz section and helped design coursework. This course used evidence-based techniques for keeping a large class engaged, i.e. the PollEverywhere tool.
-    
 <strong>OCEAN 320: Coastal Oceanography</strong><br>
 Ocean 320 was an upper-level undergraduate course for oceanography majors that covered coastal physical oceanography and sediment dynamics. The course covered shallow water waves, seafloor stresses, estuarine circulation, and coastal geology. As a TA, I helped develop coursework and laboratory assignments and gave two guest lectures on estuarine exchange flow. A highlight was being able to use a scale model of Puget Sound to teach concepts of estuarine exchange flow and residence time.
 
@@ -28,7 +29,7 @@ Ocean 320 was an upper-level undergraduate course for oceanography majors that c
 <div class = "col one last">
   <div style="float:left; padding: 10px; width: 50%; height: 50%">
         <img src="{{ site.baseurl }}/assets/img/IMG-20190816-WA0002.jpg" style="width: 70%; height: 70%">
-    <figcaption>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</figcaption>
+    <figcaption>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on the right)</figcaption>
  </div>
 </div>
 </figure>
