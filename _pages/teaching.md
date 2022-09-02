@@ -11,7 +11,7 @@ nav_order: 2
 <div class = "col one last">
  <div style="float:right; padding: 10px; width: 50%; height: 50%">
     <img src="{{ site.baseurl }}/assets/img/teaching1.jpg" style="width: 70%; height: 70%">
-    <figcaption><center>Designing a lab assignment for OCEAN 320 students to work with a scale model of Puget Sound (I'm on the left)</center></figcaption>
+    <figcaption>Designing a lab assignment for OCEAN 320 students to work with a scale model of Puget Sound (I'm on the left)</figcaption>
  </div>
 </div>
 </figure>
@@ -28,7 +28,7 @@ Ocean 320 was an upper-level undergraduate course for oceanography majors that c
 <div class = "col one last">
   <div style="float:left; padding: 10px; width: 50%; height: 50%">
         <img src="{{ site.baseurl }}/assets/img/IMG-20190816-WA0002.jpg" style="width: 70%; height: 70%">
-    <figcaption><center>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</center></figcaption>
+    <figcaption>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</figcaption>
  </div>
 </div>
 </figure>
