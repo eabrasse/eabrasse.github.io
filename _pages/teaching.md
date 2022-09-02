@@ -29,9 +29,9 @@ Ocean 529 was a unique graduate-level summer course for students across the coun
 
 <figure>
 <div class = "col one last">
- <div style="float:left; padding: 5px">
-    <img src="{{ site.baseurl }}/assets/img/IMG-20190816-WA0002.jpg"  width= "10%"; height= "10%">
-    <figcaption>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</figcaption>
+  <div style="float:left; padding: 10px; width: 50%; height: 50%">
+    <img src="{{ site.baseurl }}/assets/img/IMG-20190816-WA0002.jpg" style="width: 50%; height: 50%">
+    <figcaption><center>Casting a CTD off a small boat in the San Juan Islands for OCEAN 529 (I'm on right)</center></figcaption>
  </div>
 </div>
 </figure>
